@@ -1,3 +1,5 @@
+using System;
+
 namespace YourProjectName.Blazor.Data;
 
 public class WeatherForecast
